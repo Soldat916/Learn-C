@@ -1,10 +1,12 @@
 /*
 Created on 2017/05/02
-@author: jiangzheng
+@author: jiang
+*/
+#include <stdio.h>
+/*
 验证表达式getchar() != EOF 的值是0还是1
 打印EOF的值
 */
-#include <stdio.h>
 main()
 {
 	int c;
