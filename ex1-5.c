@@ -1,6 +1,6 @@
 /*
 Created on 2017/05/01
-@author: jiangzheng
+@author: jiang
 */
 #include <stdio.h>
 /* 字符的输入与输出 */
